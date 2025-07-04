@@ -1,0 +1,31 @@
+Product Catalog for "ElectroFuture" Store
+
+--- Laptops ---
+Product ID: LP-X100
+Product Name: "Zenith Pro" Laptop
+Description: A high-performance laptop for professionals with a 15-inch 4K display, 32GB RAM, 1TB SSD, and a powerful GPU. Ideal for video editing and programming.
+Price: 1499.99
+Stock: 45 units
+
+Product ID: LP-A200
+Product Name: "AeroBook" Ultralight
+Description: An incredibly thin and light laptop perfect for students and travelers. Features a 13-inch Full HD display, 16GB RAM, and a 12-hour battery life.
+Price: 899.50
+Stock: 120 units
+
+--- Smartphones ---
+Product ID: SP-G500
+Product Name: "Galaxy-5" Smartphone
+Description: The latest flagship smartphone with a stunning OLED display, a pro-grade camera system with 10x optical zoom, and 5G connectivity.
+Price: 1199.00
+Stock: 250 units
+
+Product ID: SP-P300
+Product Name: "Pixel-Z"
+Description: A smartphone known for its incredible AI-powered camera that takes breathtaking photos in any light. Comes with a clean Android experience.
+Price: 750.00
+Stock: 0 units (Out of Stock)
+
+--- Store Policies ---
+Return Policy: Customers can return any product within 30 days of purchase for a full refund, provided it is in its original condition.
+Shipping: Standard shipping is free on all orders over $100. Expedited shipping costs a flat rate of $25.
